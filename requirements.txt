@@ -1,0 +1,7 @@
+markitdown[pdf]>=0.0.1a3
+pypdf>=4.0.0
+chromadb>=0.5.0
+sentence-transformers>=2.7.0
+langchain-text-splitters>=0.2.0
+openai>=1.30.0
+python-dotenv>=1.0.1
