@@ -1,0 +1,9 @@
+markitdown[pdf,docx,pptx,xlsx,xls,outlook]
+ftfy
+tiktoken
+sentence-transformers
+chromadb
+langgraph
+langchain-ollama
+ddgs
+python-dotenv
